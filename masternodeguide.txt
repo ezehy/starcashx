@@ -115,7 +115,7 @@ Now on the VPS, edit the eBux configuration file:
 
 
 
-nano ~/.Starcashx/Starcashx.conf
+nano ~/.StarCashX/StarCashX.conf
 
 
 
